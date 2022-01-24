@@ -1,0 +1,85 @@
+AGER_TYP;Best-ager typology
+ALTERSKATEGORIE_GROB;Estimated age based on given name analysis
+ANREDE_KZ;Gender
+CJT_GESAMTTYP;Customer-Journey-Typology: preferred information and buying channels 
+FINANZ_MINIMALIST;low financial interest
+FINANZ_SPARER;Financial typology - money-saver
+FINANZ_VORSORGER;Financial typology - be prepared
+FINANZ_ANLEGER;Financial typology - investor
+FINANZ_UNAUFFAELLIGER;Financial typology - inconspicuous
+FINANZ_HAUSBAUER;Financial typology - home ownership
+FINANZTYP;Most descriptive financial type for individual
+GEBURTSJAHR;Year of birth
+GFK_URLAUBERTYP;Vacation habits
+GREEN_AVANTGARDE;Membership in environmental sustainability as part of youth
+HEALTH_TYP;Health typology
+LP_LEBENSPHASE_FEIN;Life stage, fine scale
+LP_LEBENSPHASE_GROB;Life stage, rough scale
+LP_FAMILIE_FEIN;Family type, fine scale
+LP_FAMILIE_GROB;Family type, rough scale
+LP_STATUS_FEIN;Social status, fine scale
+LP_STATUS_GROB;Social status, rough scale
+NATIONALITAET_KZ;Nationality based on given name analysis
+PRAEGENDE_JUGENDJAHRE;Dominating movement of person's youth (east vs. west)
+RETOURTYP_BK_S;Return type
+SEMIO_SOZ;Personality typology - socially-minded
+SEMIO_FAM;Personality typology - family-minded
+SEMIO_REL;Personality typology - religious
+SEMIO_MAT;Personality typology - materialisic
+SEMIO_VERT;Personality typology - dreamful
+SEMIO_LUST;Personality typology - sensual-minded
+SEMIO_ERL;Personality typology - event-oriented
+SEMIO_KULT;Personality typology - cultural-minded
+SEMIO_RAT;Personality typology - rational
+SEMIO_KRIT;Personality typology - critical-minded
+SEMIO_DOM;Personality typology - dominant-minded
+SEMIO_KAEM;Personality typology - combative-attitude
+SEMIO_PFLICHT;Personality typology - dutiful
+SEMIO_TRADV;Personality typology - traditional-minded
+SHOPPER_TYP;Shopper typology
+SOHO_KZ;Small office / home office flag
+TITEL_KZ;Academic title flag
+VERS_TYP;Insurance typology
+ZABEOTYP;Energy consumption typology
+ALTER_HH;Birthdate of head of household
+ANZ_PERSONEN;Number of adults in household
+ANZ_TITEL;Number of professional academic title holders in household
+HH_EINKOMMEN_SCORE;Estimated household net income
+KK_KUNDENTYP;Consumer pattern over past 12 months
+W_KEIT_KIND_HH;Likelihood of children in household
+WOHNDAUER_2008;Length of residence
+ANZ_HAUSHALTE_AKTIV;Number of households in the building
+ANZ_HH_TITEL;Number of professional academic title holders in building
+GEBAEUDETYP;Type of building (residencommercial)
+KONSUMNAEHE;Distance from building to point of sale (PoS)
+MIN_GEBAEUDEJAHR;First year building was mentioned in the database
+OST_WEST_KZ;Building location via former East / West Germany (GDR / FRG)
+WOHNLAGE;Neighborhood quality (or rural flag)
+CAMEO_DEUG_2015;German CAMEO: Wealth / Life Stage Typology, rough scale
+CAMEO_DEU_2015;German CAMEO: Wealth / Life Stage Typology, detailed scale
+CAMEO_INTL_2015;German CAMEO: Wealth / Life Stage Typology, mapped to international code
+KBA05_ANTG1;Number of 1-2 family houses in the microcell
+KBA05_ANTG2;Number of 3-5 family houses in the microcell
+KBA05_ANTG3;Number of 6-10 family houses in the microcell
+KBA05_ANTG4;Number of 10+ family houses in the microcell
+KBA05_BAUMAX;Most common building type within the microcell
+KBA05_GBZ;Number of buildings in the microcell
+BALLRAUM;Distance to nearest urban center
+EWDICHTE;Density of households per square kilometer
+INNENSTADT;Distance to city center (downtown)
+GEBAEUDETYP_RASTER;Ratio of residential to commercial activity
+KKK;Purchasing power in region
+MOBI_REGIO;Movement patterns
+ONLINE_AFFINITAET;Online affinity
+REGIOTYP;Neighborhood typology
+KBA13_ANZAHL_PKW;Number of cars in the PLZ8 region
+PLZ8_ANTG1;Number of 1-2 family houses in the PLZ8 region
+PLZ8_ANTG2;Number of 3-5 family houses in the PLZ8 region
+PLZ8_ANTG3;Number of 6-10 family houses in the PLZ8 region
+PLZ8_ANTG4;Number of 10+ family houses in the PLZ8 region
+PLZ8_BAUMAX;Most common building type within the PLZ8 region
+PLZ8_HHZ;Number of households within the PLZ8 region
+PLZ8_GBZ;Number of buildings within the PLZ8 region
+ARBEIT;Share of unemployment in community
+ORTSGR_KLS9;Size of community
+RELAT_AB;Share of unemployment relative to county in which community is contained
